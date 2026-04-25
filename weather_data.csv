@@ -1,0 +1,8 @@
+timestamp_scraped,city,recorded_time,temperature,condition,wind,humidity,pressure,visibility
+2026-04-25 13:12:06,Quezon City,"02:00Sat, 25 Apr",,27 °C,Haze.,↑,74%,1012 mbar
+2026-04-25 13:12:17,Quezon City,"02:00Fri, 24 Apr",,26 °C,Haze.,↑,75%,1010 mbar
+2026-04-25 13:12:28,Quezon City,"02:00Thu, 23 Apr",,26 °C,Overcast.,↑,71%,1010 mbar
+
+2026-04-25 13:46:08,Quezon City,Sat25 Apr,37 / 24 °C,N/A,37,Sunny.,11 km/h,38%,05:36,7 (High),0.0  mm,40 °C
+2026-04-25 13:46:08,Quezon City,Sun26 Apr,38 / 24 °C,N/A,38,Showers late. Cloudy.,12 km/h,34%,05:35,5 (Moderate),0.3  mm,40 °C
+2026-04-25 13:46:08,Quezon City,Mon27 Apr,37 / 24 °C,N/A,37,Isolated tstorms late. Broken clouds.,10 km/h,43%,05:35,7 (High),0.9  mm,40 °C
